@@ -6,7 +6,7 @@ This code example has a three project structure - CM33 Secure, CM33 Non-Secure, 
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-psoc-edge-lpcomp-hibernate-wakeup)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzkzNTciLCJTcGVjIE51bWJlciI6IjAwMi0zOTM1NyIsIkRvYyBUaXRsZSI6IlBTT0MmdHJhZGU7IEVkZ2UgTUNVOiBXYWtldXAgZnJvbSBIaWJlcm5hdGUgdXNpbmcgYSBsb3ctcG93ZXIgY29tcGFyYXRvciIsInJpZCI6InNhcmF2YW5ha3VtYSIsIkRvYyB2ZXJzaW9uIjoiMi4wLjAiLCJEb2MgTGFuZ3VhZ2UiOiJFbmdsaXNoIiwiRG9jIERpdmlzaW9uIjoiTUNEIiwiRG9jIEJVIjoiSUNXIiwiRG9jIEZhbWlseSI6IlBTT0MifQ==)
+[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzkzNTciLCJTcGVjIE51bWJlciI6IjAwMi0zOTM1NyIsIkRvYyBUaXRsZSI6IlBTT0MmdHJhZGU7IEVkZ2UgTUNVOiBXYWtldXAgZnJvbSBIaWJlcm5hdGUgdXNpbmcgYSBsb3ctcG93ZXIgY29tcGFyYXRvciIsInJpZCI6InNhcmF2YW5ha3VtYSIsIkRvYyB2ZXJzaW9uIjoiMi4xLjAiLCJEb2MgTGFuZ3VhZ2UiOiJFbmdsaXNoIiwiRG9jIERpdmlzaW9uIjoiTUNEIiwiRG9jIEJVIjoiSUNXIiwiRG9jIEZhbWlseSI6IlBTT0MifQ==)
 
 See the [Design and implementation](docs/design_and_implementation.md) for the functional description of this code example.
 
@@ -107,6 +107,7 @@ Document title: *CE239357* – *PSOC&trade; Edge MCU: Wakeup from Hibernate usin
  ------- | ---------------------
  1.x.0   | New code example <br> Early access release
  2.0.0   | GitHub release
+ 2.1.0   | Removed proj_cm33_s deps folder
 <br>
 
 
